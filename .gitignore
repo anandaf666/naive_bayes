@@ -1,8 +1,6 @@
 /.phpunit.cache
 /node_modules
 /public/build
-/public/admin
-/public/assets
 /public/hot
 /public/storage
 /storage/*.key
@@ -11,7 +9,6 @@
 .env.backup
 .env.production
 .phpunit.result.cache
-package.json
 Homestead.json
 Homestead.yaml
 auth.json
@@ -20,4 +17,3 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-/config/app.php
